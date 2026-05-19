@@ -1,99 +1,157 @@
-# Hi 👋, I'm Silas Hanchinamani
+<h1 align="center">Hi 👋, I'm Silas Hanchinamani</h1>
 
-![](https://komarev.com/ghpvc/?username=silasdhanchinamani-SS&label=Profile%20views&color=000000&style=flat)
+<h3 align="center">🚀 Java Backend Developer | Spring Boot Enthusiast | REST API Developer</h3>
 
-## 🚀 Java Backend Developer
-
-I'm a passionate Java Backend Developer focused on building scalable, secure, and efficient web applications using modern backend technologies.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=silasdhanchinamani-SS&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently Learning: Microservices, Spring Security
-- 💡 Interested In: Scalable Architectures, API Security, Cloud-Based Systems
-- 💬 Ask Me About: Java, Spring Boot, REST APIs
-- 📫 Reach Me At: **silas.d.hanchinamani@gmail.com**
-- ⚡ Fun Fact: I enjoy solving backend problems and building real-world applications 🚀
+<p align="center">
 
----
+🌱 Currently Learning: <b>Microservices & Spring Security</b> <br><br>
 
-## 🛠️ Skills & Technologies
+💡 Interested In: <b>Scalable Architectures, API Security, Cloud-Based Systems</b> <br><br>
 
-### 💻 Backend Development
-- Java (Core & Advanced)
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- REST API Development
-- Hibernate & JPA
-- JWT Authentication
+💬 Ask Me About: <b>Java, Spring Boot, REST APIs</b> <br><br>
 
-### 🗄️ Databases
-- MySQL
-- PostgreSQL
-- H2 Database
+📫 Reach Me At: <b>silas.d.hanchinamani@gmail.com</b> <br><br>
 
-### 🎨 Frontend
-- HTML5
-- CSS3
-- JavaScript
+⚡ Fun Fact: <b>I enjoy solving backend problems and building real-world applications 🚀</b>
 
-### 🔧 Tools & Platforms
-- Git & GitHub
-- Postman
-- IntelliJ IDEA
-- VS Code
-- Eclipse
-
----
-
-## 📂 Projects
-
-### 📝 Quiz Application
-- Developed a Quiz Management System using Spring Boot & Thymeleaf
-- Implemented CRUD operations and dynamic question handling
-
-### 🚗 Mercedes-Benz Website
-- Responsive frontend website using HTML & CSS
-- Modern UI with multimedia and service sections
-
----
-
-## 📊 GitHub Stats
-
-![Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=silasdhanchinamani-SS&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silasdhanchinamani-SS&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=silasdhanchinamani-SS&theme=tokyonight)
-
----
-
-## 🤝 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/silas-hanchinamani-ss/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="mailto:silas.d.hanchinamani@gmail.com">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" />
-</a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophy
+# 🛠️ Skills & Technologies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=silasdhanchinamani-SS&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+## 💻 Backend Development
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,hibernate" />
+
+<br><br>
+
+## 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br><br>
+
+## 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman" />
+
+</div>
 
 ---
 
-## ✨ Quote
+# 📂 Projects
 
-> “Code. Learn. Build. Repeat.”
+<div align="center">
+
+## 📝 Quiz Application
+
+✔️ Developed a Quiz Management System using <b>Spring Boot & Thymeleaf</b> <br>
+
+✔️ Implemented CRUD operations and dynamic question handling <br>
+
+✔️ Built REST APIs and integrated backend logic efficiently
+
+<br><br>
+
+## 🚗 Mercedes-Benz Website
+
+✔️ Responsive frontend website using <b>HTML & CSS</b> <br>
+
+✔️ Modern UI with multimedia and service sections <br>
+
+✔️ Improved layout responsiveness and user experience
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silasdhanchinamani-SS&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasdhanchinamani-SS&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=silasdhanchinamani-SS&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=silasdhanchinamani-SS&theme=tokyonight&row=1&column=6" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=silasdhanchinamani-SS&theme=tokyo-night" />
+
+</div>
+
+---
+
+# 🤝 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/silas-hanchinamani-ss/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:silas.d.hanchinamani@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" width="45" height="45"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/silasdhanchinamani-SS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
+</a>
+
+</p>
+
+---
+
+# ✨ Quote
+
+<h3 align="center">“Code. Learn. Build. Repeat.”</h3>
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+⭐ Don't forget to star repositories you like ⭐
+
+</div>
