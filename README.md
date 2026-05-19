@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Silas Hanchinamani
 
-<!--
-**silasdhanchinamani-SS/silasdhanchinamani-SS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Java Backend Developer specializing in building scalable and secure web applications using Spring Boot and REST APIs.
+I have a strong foundation in backend development and continuously improving my skills in Microservices and System Design.
+
+* 🌱 Currently Learning: Microservices, Spring Security
+* 💡 Interested in: Scalable architectures, API security, cloud-based systems
+* 💬 Ask Me About: Java, Spring Boot, REST APIs
+* 📫 How to Reach Me: **[silas.d.hanchinamani@gmail.com](mailto:silas.d.hanchinamani@gmail.com)**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Backend Development
+
+* Java (Core & Advanced)
+* Spring Boot, Spring MVC, Spring Data JPA
+* REST API Development
+* Hibernate & JPA
+* JWT Authentication
+
+### 🗄️ Databases
+
+* MySQL
+* H2
+* postgresql
+
+### 🔧 Tools & Technologies
+ii
+* Git & GitHub
+* Postman
+* HTML, CSS, JS
+
+---
+
+## 🤝 Connect with Me
+
+* 💼 LinkedIn: (https://www.linkedin.com/in/silas-hanchinamani-ss/)
+* 📧 Email: [silas.d.hanchinamani@gmail.com](mailto:silas.d.hanchinamani@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving backend problems and building real-world applications 🚀
